@@ -1,6 +1,6 @@
 // I added a "Mood" feature to the journal entries, allowing users to record 
 // their emotional state alongside the date, prompt, and response. This addresses 
-// a common journaling barrier: tracking emotional health over time. 
+// a common journaling barrier, tracking emotional health over time. 
 // The mood is saved and loaded with each entry.
 
 using System;
