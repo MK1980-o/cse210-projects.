@@ -28,7 +28,6 @@ class Program
         video3.AddComment(new Comment("Musa", "Thanks for sharing!"));
         videos.Add(video3);
 
-        // Display video info
         foreach (Video video in videos)
         {
             Console.WriteLine($"Title: {video.Title}");
