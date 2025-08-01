@@ -1,7 +1,8 @@
-// Exceeded Requirements:
-// - Spinner animations using \b and delay
-// - Counting listed items
-// - Variety of random prompts/questions for deeper user engagement
+//I added creativity by enhancing user experience through animations in the breathing 
+//activity that mimic real breathing patterns with dynamic text updates. I also 
+//customized the prompts and questions in the Reflection and Listing activities to be 
+//relatable and thought-provoking. The spinner animations and countdown timers add a 
+//more engaging feel, making the experience feel like a real guided mindfulness session.
 
 using System;
 
